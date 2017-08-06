@@ -1,0 +1,6 @@
+F:\VisualStudioProjects\PhotonSever教程\CSharp直接连接MySQL\bin\Debug\CSharp直接连接MySQL.exe.config
+F:\VisualStudioProjects\PhotonSever教程\CSharp直接连接MySQL\bin\Debug\CSharp直接连接MySQL.exe
+F:\VisualStudioProjects\PhotonSever教程\CSharp直接连接MySQL\bin\Debug\CSharp直接连接MySQL.pdb
+F:\VisualStudioProjects\PhotonSever教程\CSharp直接连接MySQL\obj\Debug\CSharp直接连接MySQL.csprojResolveAssemblyReference.cache
+F:\VisualStudioProjects\PhotonSever教程\CSharp直接连接MySQL\obj\Debug\CSharp直接连接MySQL.exe
+F:\VisualStudioProjects\PhotonSever教程\CSharp直接连接MySQL\obj\Debug\CSharp直接连接MySQL.pdb
